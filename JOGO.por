@@ -30,8 +30,6 @@ programa {
     inteiro encontrou_tesouro
     inteiro posicao_risco
 
-    inteiro opcao
-
     cadeia nivel_atual
 
 
